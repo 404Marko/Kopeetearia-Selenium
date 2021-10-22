@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-22T16:50:00 CST" name="Default suite" finished-at="2021-10-22T16:50:27 CST" duration-ms="26317">
+  <suite started-at="2021-10-22T17:19:35 CST" name="Default suite" finished-at="2021-10-22T17:19:59 CST" duration-ms="23865">
     <groups>
     </groups>
-    <test started-at="2021-10-22T16:50:00 CST" name="Default test" finished-at="2021-10-22T16:50:27 CST" duration-ms="26317">
+    <test started-at="2021-10-22T17:19:35 CST" name="Default test" finished-at="2021-10-22T17:19:59 CST" duration-ms="23865">
       <class name="com.accenture.ws.NewTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T16:50:00 CST" name="setup" finished-at="2021-10-22T16:50:11 CST" duration-ms="10588" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T17:19:35 CST" name="setup" finished-at="2021-10-22T17:19:44 CST" duration-ms="9251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addOrderDiscountedTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T16:50:11 CST" name="addOrderDiscountedTest" finished-at="2021-10-22T16:50:14 CST" duration-ms="2915" status="PASS">
+        <test-method signature="addOrderDiscountedTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T17:19:44 CST" name="addOrderDiscountedTest" finished-at="2021-10-22T17:19:46 CST" duration-ms="2505" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addOrderDiscountedTest -->
-        <test-method signature="addOrderNotDiscountedTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T16:50:14 CST" name="addOrderNotDiscountedTest" finished-at="2021-10-22T16:50:16 CST" duration-ms="2302" status="PASS">
+        <test-method signature="addOrderNotDiscountedTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T17:19:46 CST" name="addOrderNotDiscountedTest" finished-at="2021-10-22T17:19:49 CST" duration-ms="2299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addOrderNotDiscountedTest -->
-        <test-method signature="deleteOrderTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T16:50:16 CST" name="deleteOrderTest" finished-at="2021-10-22T16:50:21 CST" duration-ms="4203" status="PASS">
+        <test-method signature="deleteOrderTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T17:19:49 CST" name="deleteOrderTest" finished-at="2021-10-22T17:19:53 CST" duration-ms="4108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteOrderTest -->
-        <test-method signature="editOrderTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T16:50:21 CST" name="editOrderTest" finished-at="2021-10-22T16:50:27 CST" duration-ms="6155" status="PASS">
+        <test-method signature="editOrderTest()[pri:0, instance:com.accenture.ws.NewTest@7133da86]" started-at="2021-10-22T17:19:53 CST" name="editOrderTest" finished-at="2021-10-22T17:19:59 CST" duration-ms="5635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editOrderTest -->
